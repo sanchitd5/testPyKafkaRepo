@@ -1,0 +1,14 @@
+lockfileVersion: 5.3
+
+specifiers:
+  kafkajs: ^1.16.0
+
+dependencies:
+  kafkajs: 1.16.0
+
+packages:
+
+  /kafkajs/1.16.0:
+    resolution: {integrity: sha512-+Rcfu2hyQ/jv5skqRY8xA7Ra+mmRkDAzCaLDYbkGtgsNKpzxPWiLbk8ub0dgr4EbWrN1Zb4BCXHUkD6+zYfdWg==}
+    engines: {node: '>=10.13.0'}
+    dev: false
